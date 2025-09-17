@@ -1,2 +1,14 @@
-# tools_for_data_science
-Tools for Data Science
+# Tools for Data Science
+
+This repository contains resources and exercises for learning and practicing data science concepts.
+
+## Repository Structure
+
+- `exercises/` — Jupyter Notebooks for hands-on practice:
+	- `DataScienceEcosystem.ipynb`: Explore the ecosystem of data science tools and platforms.
+	- `GettingStartedWithPython.ipynb`: Introduction to Python for data science.
+- `LICENSE` — MIT License.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
