@@ -5,7 +5,6 @@ This repository contains resources and exercises for learning and practicing dat
 ## Repository Structure
 
 - `exercises/` — Jupyter Notebooks for hands-on practice:
-	- `DataScienceEcosystem.ipynb`: Explore the ecosystem of data science tools and platforms.
 	- `GettingStartedWithPython.ipynb`: Introduction to Python for data science.
 - `LICENSE` — MIT License.
 
