@@ -1,0 +1,4 @@
+Hello, this is an example text file.
+You can read this file using Python's open() function.
+Each line contains some sample text.
+End of file.
