@@ -4,8 +4,10 @@ This repository contains resources and exercises for learning and practicing dat
 
 ## Repository Structure
 
-- `exercises/` — Jupyter Notebooks for hands-on practice:
+- `exercises/` — Contains resources for hands-on practice:
 	- `GettingStartedWithPython.ipynb`: Introduction to Python for data science.
+	- `WorkingWithFilesAndData.ipynb`: Learn how to work with files and data in Python.
+	- `Example1.txt`: Example text file for file operations and exercises.
 - `LICENSE` — MIT License.
 
 ## License
