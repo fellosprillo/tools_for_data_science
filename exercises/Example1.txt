@@ -1,4 +1,4 @@
 Hello, this is an example text file.
 You can read this file using Python's open() function.
-Each line contains some sample text.
+Each line contains some sample texts.
 End of file.
